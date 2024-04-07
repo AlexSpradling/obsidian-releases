@@ -11072,5 +11072,12 @@
     "author": "philips",
     "description": "View Supernote notes, generate markdown from note and capture screen mirror.",
     "repo": "philips/supernote-obsidian-plugin"
+  },
+  {
+     "id": "obsidian-whichkey",
+     "name": "obsidian-whichkey",
+     "author": "Alex Spradling",
+     "description": "Display a popup of nested, executable, hotkey commands after pressing a leader key.","author": "Alex Spradling",
+     "repo": "AlexSpradling/obsidian-which-key"
   }
 ]
